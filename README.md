@@ -1,6 +1,6 @@
 # Joshua (@hashwarlock)
 <p align="center">
-<img src="./assets/ThePlugsSparkCreativity.png"/>
+<img src="./assets/ThePlugsSparkCreativity.png" width="320" height="320"/>
 </p>
 
 ## Hi, How are ya? 👋
