@@ -3,9 +3,10 @@
 <img src="./assets/ThePlugsSparkCreativity.png" width="320" height="320"/>
 </p>
 
-## Hi, How are ya? 👋
-I'm Joshua. I am the Director of Technical Evangelism at Phala Network, and founder/owner of Incipient Technologies LLC. My main interests revolve around blockchain technology, distributed computing, cybersecurity and privacy preserving technologies.
-- 🔭 I’m currently working on Phat Contracts at Phala Network
+## hi 👋
+i'm joshua. 
+i enjoy technology.
+- 🔭 I’m currently working on AI Agent Contracts at Phala Network
 - 🔌 The Plugs ⚡ Spark Creativity
 <!--
 **HashWarlock/hashwarlock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
