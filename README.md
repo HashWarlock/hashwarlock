@@ -5,10 +5,10 @@
 
 ## hi 👋
 i'm joshua. 
-i enjoy technology.
+i enjoy technology. empathy before profits.
 - 🔭 Part of the 🫖 TaaS Force at Phala Network
 - 🔌 The Plugs ⚡ Spark Creativity
-- 🤝 Partner at ai16z 🟧
+- 🤝 Contributor at ai16z 🟧
 <!--
 **HashWarlock/hashwarlock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
