@@ -9,6 +9,10 @@ i enjoy technology. empathy before profits.
 - 🔭 Part of the 🫖 TaaS Force at Phala Network
 - 🔌 The Plugs ⚡ Spark Creativity
 - 🤝 Contributor at ai16z 🟧
+
+---
+
+[![Tippin' on 4 4s](https://tip.md/badge.svg)](https://tip.md/HashWarlock)
 <!--
 **HashWarlock/hashwarlock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
