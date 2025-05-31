@@ -11,6 +11,21 @@ i enjoy technology. empathy before profits.
 - 🤝 Contributor at ai16z 🟧
 
 ---
+<!-- WALLET-LINKING-BEGIN
+{
+  "lastUpdated": "2025-05-31T02:17:04.593Z",
+  "wallets": [
+    {
+      "chain": "ethereum",
+      "address": "0xdE1683287529B9B4C3132af8AaD210644B259CfD"
+    },
+    {
+      "chain": "solana",
+      "address": "4g9dwu6iVKnX91zRF3QTE7avjQoxbj15GZ7rHeo1SyWS"
+    }
+  ]
+}
+WALLET-LINKING-END -->
 
 [![Tippin' on 4 4s](https://tip.md/badge.svg)](https://tip.md/HashWarlock)
 <!--
