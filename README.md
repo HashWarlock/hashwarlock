@@ -6,9 +6,11 @@
 ## hi 👋
 i'm joshua. 
 i enjoy technology. empathy before profits.
-- 🔭 Part of the 🫖 TaaS Force at Phala Network
+- 🔭 Part of the 🫖 TaaS Force at Phala
 - 🔌 The Plugs ⚡ Spark Creativity
-- 🤝 Contributor at ai16z 🟧
+- 🤝 Contributor at ~~ai16z 🟧~~ elizaOS
+
+Hit me up if you want to launch Confidential VMs using [dstack](https://github.com/dstack-tee/dstack) hosted on [Phala Cloud](https://phala.com). Support for both CPU & GPU TEEs. 🥷
 
 ---
 <!-- WALLET-LINKING-BEGIN
@@ -21,7 +23,7 @@ i enjoy technology. empathy before profits.
     },
     {
       "chain": "solana",
-      "address": "4g9dwu6iVKnX91zRF3QTE7avjQoxbj15GZ7rHeo1SyWS"
+      "address": ""
     }
   ]
 }
