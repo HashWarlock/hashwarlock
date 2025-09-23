@@ -23,7 +23,7 @@ Hit me up if you want to launch Confidential VMs using [dstack](https://github.c
     },
     {
       "chain": "solana",
-      "address": ""
+      "address": "4g9dwu6iVKnX91zRF3QTE7avjQoxbj15GZ7rHeo1SyWS"
     }
   ]
 }
