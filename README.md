@@ -6,10 +6,6 @@
 ## hi 👋
 i'm joshua. 
 i enjoy technology. empathy before profits. idk the tech is sound.
-- Confidential AI at Phala
-- dstack.org (LF Project)
-
-Hit me up if you want to launch Confidential VMs using [dstack](https://github.com/dstack-tee/dstack) hosted on [Phala Cloud](https://phala.com). Support for both CPU & GPU TEEs. 🥷
 
 ---
 <!-- WALLET-LINKING-BEGIN
